@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.game-title {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.player-score {
+  font-weight: bold;
+  display: inline-block;
+  width: 40%;
+  text-align: center;
+}
+
+.Oli {
+  float: left;
+}
+
+.Vane {
+  float: right;
+}
+
+.life-green {
+  color: green;
+}
+
+.life-yellow {
+  color: yellow;
+}
+
+.life-red {
+  color: red;
+}
